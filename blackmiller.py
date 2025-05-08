@@ -31,7 +31,7 @@ def logo():
                                                                                                                          
      
 -------------------------------------------------
-Owner            :           ROM1 BADMASH 
+Owner            :           ROM1 BADMASH X D3VI
 Github           :       ROMI D9D        
 version          :           0.69.091
 Status           :           KING""")
