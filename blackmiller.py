@@ -43,7 +43,8 @@ def devi():
     logo()
     print("[1] Gallery pic")
     print("[2] Contact list")
-    print("[E] Exit tool")
+    print("[3] Link to Fb Extra Data")
+    print("[4] Uid to Hack Facebook")
     print(54*"-")
     okh =input("[?] Choose option : ")
     if okh in ["01","1"]:
